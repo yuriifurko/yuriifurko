@@ -1,4 +1,4 @@
-name: Update Credly Badges
+name: Update README
 
 on:
   schedule:
@@ -19,7 +19,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          template: "templates/README.md"
+          template: "README.md"
           writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
