@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Yurii</h1>
 <h3 align="center">A passionate Senior DevOps Engineer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuriifurko&label=Profile%20views&color=0e75b6&style=flat" alt="yuriifurko" /> </p>
@@ -12,16 +13,6 @@
 
 - ⚡ Fun fact **Sometime i play chess at https://www.chess.com**
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-#### 🌱 My latest projects
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yurii furko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yurii furko" height="30" width="40" /></a>
@@ -33,6 +24,26 @@
 ## View my verified badges
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+
+## My AWS HomeLab Architecture
+
+### 🏠 Lnading Zone Architecture
+
+![img](images/aws-arch.drawio.png)
+
+### 🏠 Cross-Account access via OIDC and IAM role
+
+![img](images/aws-iam-oidc-access.drawio.png)
+
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 🌱 My latest projects
+{{range recentRepos 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yuriifurko"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yuriifurko" /></a></p><br><br>

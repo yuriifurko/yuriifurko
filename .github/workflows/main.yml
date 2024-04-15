@@ -1,6 +1,9 @@
-name: Update Credly Badges
+name: Update README
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
@@ -15,11 +18,17 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: yurii.furko
+
+
       - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          template: "templates/README.md"
+          template: "README.md"
           writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
@@ -31,8 +40,3 @@ jobs:
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
-
-      - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
-        with:
-          CREDLY_USER: yurii.furko
