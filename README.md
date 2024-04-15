@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Yurii</h1>
 <h3 align="center">A passionate Senior DevOps Engineer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuriifurko&label=Profile%20views&color=0e75b6&style=flat" alt="yuriifurko" /> </p>
@@ -23,6 +24,19 @@
 ## View my verified badges
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+
+
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+- [yuriifurko/tf-aws-eks-magento2](https://github.com/yuriifurko/tf-aws-eks-magento2)
+
+#### 🌱 My latest projects
+{{range recentRepos 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yuriifurko"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yuriifurko" /></a></p><br><br>
