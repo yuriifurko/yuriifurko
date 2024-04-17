@@ -23,6 +23,23 @@
 
 ## View my verified badges
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Migration Foundations](https://images.credly.com/size/110x110/images/4163dc96-eec3-49c2-87b3-6a98172e160c/image.png)](http://www.credly.com/badges/fe03b5e3-472f-4055-9e15-f6e96929b9a0 "AWS Knowledge: Migration Foundations")
+[![AWS Knowledge: Storage Core](https://images.credly.com/size/110x110/images/4c6a3c3a-e1dd-46f7-bcaf-cc69b817042e/image.png)](http://www.credly.com/badges/59709149-c244-4811-911c-98c4ebc78524 "AWS Knowledge: Storage Core")
+[![AWS Knowledge: Object Storage](https://images.credly.com/size/110x110/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png)](http://www.credly.com/badges/60f5a6cd-e560-45bb-9520-ce68786e394c "AWS Knowledge: Object Storage")
+[![AWS Knowledge: Data Protection & Disaster Recovery](https://images.credly.com/size/110x110/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png)](http://www.credly.com/badges/6e201860-e054-41f0-ba2b-a5d692ded624 "AWS Knowledge: Data Protection & Disaster Recovery")
+[![AWS Knowledge: Compute](https://images.credly.com/size/110x110/images/eba18772-5ecf-471b-b8af-dda79815b544/image.png)](http://www.credly.com/badges/ae203be5-1bbc-444b-92e6-9eb96a78cda8 "AWS Knowledge: Compute")
+[![AWS Knowledge: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/8aaf8c10-d5b1-4e3e-9f1b-55e114badc4e "AWS Knowledge: File Storage")
+[![AWS Knowledge: Amazon EKS](https://images.credly.com/size/110x110/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png)](http://www.credly.com/badges/37c937cc-b85a-49a4-bf88-3d7a9bc9ceac "AWS Knowledge: Amazon EKS")
+[![AWS Cloud Quest: Solutions Architect](https://images.credly.com/size/110x110/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png)](http://www.credly.com/badges/b122ac55-4816-4137-9f73-2dd239224dc2 "AWS Cloud Quest: Solutions Architect")
+[![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/8a1b842f-c6b0-4331-8bca-d9e6dc885316 "AWS Knowledge: Architecting")
+[![AWS Knowledge: Networking Core](https://images.credly.com/size/110x110/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png)](http://www.credly.com/badges/85681eb2-bc80-4571-9c42-8bc8734a2d96 "AWS Knowledge: Networking Core")
+[![AWS Knowledge: Block Storage](https://images.credly.com/size/110x110/images/bd6f25a2-b7ac-4b4c-ae4c-887864ba105e/image.png)](http://www.credly.com/badges/12c136a8-9f1e-4894-89e4-1f733ea3dcaa "AWS Knowledge: Block Storage")
+[![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/110x110/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/ac9efadb-26f5-4f1e-a293-a6f40f110249 "AWS Knowledge: Cloud Essentials")
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/cf1228f1-c7de-4478-8991-a8565629f708 "AWS Cloud Quest: Cloud Practitioner")
+[![LFS260: Kubernetes Security Essentials](https://images.credly.com/size/110x110/images/6157ec8e-09df-4704-a18b-470487576817/LF_logobadge.png)](http://www.credly.com/badges/a85060e2-806b-4d91-ba54-e91fe5383ea8 "LFS260: Kubernetes Security Essentials")
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/09232628-3949-4f56-b09e-b447f3b6fa07 "AWS Certified Solutions Architect – Associate")
+[![LFS258: Kubernetes Fundamentals](https://images.credly.com/size/110x110/images/9e4096f6-038b-4c0a-ad60-832ef84cbf14/LF_logobadge.png)](http://www.credly.com/badges/171a4cfc-69f9-460c-907a-a5f856effab0 "LFS258: Kubernetes Fundamentals")
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/7db8c21c-459e-4a81-856e-729c7a09761d "CKA: Certified Kubernetes Administrator")
 <!--END_SECTION:badges-->
 
 ## My AWS HomeLab Architecture
