@@ -22,7 +22,7 @@
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
 ## View my verified badges
-<!--START_SECTION:badges-->
+
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/09232628-3949-4f56-b09e-b447f3b6fa07 "AWS Certified Solutions Architect – Associate")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/7db8c21c-459e-4a81-856e-729c7a09761d "CKA: Certified Kubernetes Administrator")
 
@@ -44,7 +44,7 @@
 
 [![LFS260: Kubernetes Security Essentials](https://images.credly.com/size/110x110/images/6157ec8e-09df-4704-a18b-470487576817/LF_logobadge.png)](http://www.credly.com/badges/a85060e2-806b-4d91-ba54-e91fe5383ea8 "LFS260: Kubernetes Security Essentials")
 [![LFS258: Kubernetes Fundamentals](https://images.credly.com/size/110x110/images/9e4096f6-038b-4c0a-ad60-832ef84cbf14/LF_logobadge.png)](http://www.credly.com/badges/171a4cfc-69f9-460c-907a-a5f856effab0 "LFS258: Kubernetes Fundamentals")
-<!--END_SECTION:badges-->
+
 
 ### 🏠 My AWS HomeLab Architecture
 
@@ -55,14 +55,14 @@
 ![img](images/aws-iam-oidc-access.drawio.png)
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+
+- [yuriifurko/tf-aws-eks-magento2](https://github.com/yuriifurko/tf-aws-eks-magento2) -  (1 day ago)
+- [yuriifurko/tf-aws-two-tier-architecture](https://github.com/yuriifurko/tf-aws-two-tier-architecture) -  (2 days ago)
 
 #### 🌱 My latest projects
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+
+- [yuriifurko/tf-aws-eks-magento2](https://github.com/yuriifurko/tf-aws-eks-magento2) - 
+- [yuriifurko/tf-aws-two-tier-architecture](https://github.com/yuriifurko/tf-aws-two-tier-architecture) - 
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yuriifurko"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yuriifurko" /></a></p><br><br>
