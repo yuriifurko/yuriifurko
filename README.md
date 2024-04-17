@@ -25,6 +25,14 @@
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
+### 🏠 My AWS HomeLab Architecture
+
+![img](images/aws-arch.drawio.png)
+
+### 🏠 Cross-Account access via OIDC and IAM role
+
+![img](images/aws-iam-oidc-access.drawio.png)
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})

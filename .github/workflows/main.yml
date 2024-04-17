@@ -22,6 +22,7 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: yurii.furko
+          CREDLY_SORT: CREDLY_SORT
 
       - name: Get latest projects
         uses: muesli/readme-scribe@master
