@@ -13,22 +13,22 @@ permissions:
 
 jobs:
   update-readme:
-    name: Update Readme with badges
+    name: Update Readme
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
 
-      - name: Badges - Readme
+      - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: yurii.furko
 
-
-      - uses: muesli/readme-scribe@master
+      - name: Get latest projects
+        uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          template: "template/README.md.tpl"
+          template: "README.md"
           writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
