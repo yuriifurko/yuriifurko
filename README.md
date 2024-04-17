@@ -25,9 +25,7 @@
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
-### My AWS HomeLab Architecture
-
-### 🏠 Lnading Zone Architecture
+### 🏠 My AWS HomeLab Architecture
 
 ![img](images/aws-arch.drawio.png)
 
